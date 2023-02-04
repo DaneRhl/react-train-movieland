@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-train-movieland/static/css/main.334bdeb1.css",
-    "main.js": "/react-train-movieland/static/js/main.514efb71.js",
+    "main.js": "/react-train-movieland/static/js/main.3783ee3b.js",
     "index.html": "/react-train-movieland/index.html",
     "static/media/search.svg": "/react-train-movieland/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
     "main.334bdeb1.css.map": "/react-train-movieland/static/css/main.334bdeb1.css.map",
-    "main.514efb71.js.map": "/react-train-movieland/static/js/main.514efb71.js.map"
+    "main.3783ee3b.js.map": "/react-train-movieland/static/js/main.3783ee3b.js.map"
   },
   "entrypoints": [
     "static/css/main.334bdeb1.css",
-    "static/js/main.514efb71.js"
+    "static/js/main.3783ee3b.js"
   ]
 }
